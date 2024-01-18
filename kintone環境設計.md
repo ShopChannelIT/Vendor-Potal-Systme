@@ -15,3 +15,6 @@
 
 [参考](https://kintone.cybozu.co.jp/kintone-signpost/guide/development_environment.html)
 
+
+# 配備
+
