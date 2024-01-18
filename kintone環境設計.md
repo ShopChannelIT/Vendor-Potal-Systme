@@ -18,3 +18,5 @@
 
 # 配備
 
+[gasuku deproit] (https://deploit.gusuku.io/?_gl=1*1x1k8ey*_ga*MTQzMjgxOTQzNC4xNzA1MDM2MzE2*_ga_0703L2JJFB*MTcwNTU1ODE0OS4xLjAuMTcwNTU1ODE0OS4wLjAuMA..)
+
