@@ -13,7 +13,7 @@
 
 ![image](https://github.com/ShopChannelIT/Vendor-Potal-Systme/assets/88366591/403a7429-a7b3-48d9-907c-802af8e9703d)
 
-[参考](https://kintone.cybozu.co.jp/kintone-signpost/guide/development_environment.html)
+[kintone開発環境の考え方](https://kintone.cybozu.co.jp/kintone-signpost/guide/development_environment.html)
 
 
 # 配備
