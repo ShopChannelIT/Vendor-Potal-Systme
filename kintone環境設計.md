@@ -18,7 +18,11 @@
 
 # 配備
 
-[gasuku deproit](https://deploit.gusuku.io/?_gl=1*1x1k8ey*_ga*MTQzMjgxOTQzNC4xNzA1MDM2MzE2*_ga_0703L2JJFB*MTcwNTU1ODE0OS4xLjAuMTcwNTU1ODE0OS4wLjAuMA..)
+* プラグインサービス　[gasuku deproit](https://deploit.gusuku.io/?_gl=1*1x1k8ey*_ga*MTQzMjgxOTQzNC4xNzA1MDM2MzE2*_ga_0703L2JJFB*MTcwNTU1ODE0OS4xLjAuMTcwNTU1ODE0OS4wLjAuMA..)
+* 本番環境変更権限は、特定のメンバーへ制限する
+* 本番環境変更する場合、Kintone本番環境の『本番環境変更申請アプリ』を利用する
+
+
 
 # 各管理者
 
