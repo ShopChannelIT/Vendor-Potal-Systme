@@ -18,5 +18,17 @@
 
 # 配備
 
-[gasuku deproit] (https://deploit.gusuku.io/?_gl=1*1x1k8ey*_ga*MTQzMjgxOTQzNC4xNzA1MDM2MzE2*_ga_0703L2JJFB*MTcwNTU1ODE0OS4xLjAuMTcwNTU1ODE0OS4wLjAuMA..)
+[gasuku deproit](https://deploit.gusuku.io/?_gl=1*1x1k8ey*_ga*MTQzMjgxOTQzNC4xNzA1MDM2MzE2*_ga_0703L2JJFB*MTcwNTU1ODE0OS4xLjAuMTcwNTU1ODE0OS4wLjAuMA..)
+
+# 各管理者
+
+*各管理者は、下記のとおり運用する。[各管理者の詳細説明](https://jp.cybozu.help/k/ja/admin/permission_admin/admin_type.html#permission_admin_permissions_concept_20)
+
+| № |  | 開発ドメイン | 本番ドメイン |
+| - | - | - | - |
+| 1 | cybozu.com共通管理者 | 経営企画部/IT本部 | 経営企画部/IT本部 |
+| 2 | サイボウズドットコム ストア管理者 | 経営企画部/IT本部 | 経営企画部/IT本部 |
+| 3 | システム管理者 | 経営企画部/IT本部 | 経営企画部/IT本部 |
+| 4 | アプリ管理者 | JSC従業員のうちアプリ開発するメンバー | JSC従業員のうち本番環境変更権限付与者（数名） |
+| 5 | スペース管理者 | JSC従業員のうちアプリ開発するメンバー | JSC従業員のうち本番環境変更権限付与者（数名） |
 
