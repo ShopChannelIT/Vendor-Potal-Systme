@@ -6,3 +6,5 @@
 
 ### [cybozu 共通管理機能] (https://qw8hifusqcaw.cybozu.com/admin/directory/)
 
+
+## [カスタマイズクライアント環境設計](https://qiita.com/potara/items/714dec8ba0751784042d)
