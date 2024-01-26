@@ -1,5 +1,6 @@
 # 目的
 - WIL(Weekly item List)関連のデータ関係を共有する
+- ベンダーポータル進捗管理簡易版に必要な実データに触れる事で開発品質を向上させる
 
 # ER概要図
 
@@ -7,4 +8,5 @@
 
 # 実データ
 
-[WIL-ショウマスタ-ショウマスタ明細-発注] (https://qw8hifusqcaw.cybozu.com/k/53/)
+## [WIL-ショウマスタ-ショウマスタ明細-発注] (https://qw8hifusqcaw.cybozu.com/k/53/)
+
