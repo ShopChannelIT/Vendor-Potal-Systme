@@ -2,7 +2,7 @@
 
 ## 参考情報)基幹システム業務データ
 
-### [ER図]()
+### [ER図](https://github.com/ShopChannelIT/Vendor-Potal-Systme/blob/main/%E5%9F%BA%E5%B9%B9%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0ER%E5%9B%B3.md)
 
 ## kintone環境設計
 
