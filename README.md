@@ -1,5 +1,9 @@
 # ベンダーポータルシステム
 
+## 参考情報)基幹システム業務データ
+
+### [ER図]()
+
 ## kintone環境設計
 
 ### [システム環境設計](https://github.com/ShopChannelIT/Vendor-Potal-Systme/blob/main/kintone%E7%92%B0%E5%A2%83%E8%A8%AD%E8%A8%88.md)
