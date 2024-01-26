@@ -4,6 +4,8 @@
 
 # ER概要図
 
+ピンク:起点項目  グリーン：必要情報参照経路
+
 ![image](https://github.com/ShopChannelIT/Vendor-Potal-Systme/assets/88366591/424fa092-8168-4aba-b23e-f29f9543cc8f)
 
 # 実データ
